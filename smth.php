@@ -1,6 +1,6 @@
 <?php
 
 $nome = 'Pedro';
-$apelido = 'Jesus';
+$apelido = 'Eduardo Jesus';
 $nome_completo = $nome.$apelido;
 echo "Seu nome completo é: $nome_completo" ; 
