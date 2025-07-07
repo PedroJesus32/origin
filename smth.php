@@ -3,4 +3,8 @@
 $nome = 'Pedro';
 $apelido = 'Eduardo Jesus';
 $nome_completo = $nome.$apelido;
-echo "Seu nome completo é: $nome_completo" ; 
+echo "Seu nome completo é: $nome_completo" ;
+
+efsjnfunen;
+
+asdasd;
