@@ -17,4 +17,4 @@ elif(nota > 70 and nota < 90):
 elif(nota > 90 and nota <= 100):
     print(f"Excelente!->{nota}%")
 
-       
+    #Testando
